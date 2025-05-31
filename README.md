@@ -5,4 +5,4 @@ Steps to Run:
 
 pip install tkinter
 
-python heart-pyhton.py
+python heart-python.py
